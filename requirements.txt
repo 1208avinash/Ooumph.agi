@@ -1,3 +1,8 @@
 # requirements.txt
 # Dependency list for pip install
+gradio
+fastapi
+uvicorn
+pydantic
+openai
 
